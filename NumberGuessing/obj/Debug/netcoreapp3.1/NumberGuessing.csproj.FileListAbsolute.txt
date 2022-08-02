@@ -1,0 +1,14 @@
+D:\VisualStudios\C# Practice\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.exe
+D:\VisualStudios\C# Practice\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.deps.json
+D:\VisualStudios\C# Practice\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.runtimeconfig.json
+D:\VisualStudios\C# Practice\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.runtimeconfig.dev.json
+D:\VisualStudios\C# Practice\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.dll
+D:\VisualStudios\C# Practice\NumberGuessing\bin\Debug\netcoreapp3.1\NumberGuessing.pdb
+D:\VisualStudios\C# Practice\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.csproj.AssemblyReference.cache
+D:\VisualStudios\C# Practice\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudios\C# Practice\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.AssemblyInfoInputs.cache
+D:\VisualStudios\C# Practice\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.AssemblyInfo.cs
+D:\VisualStudios\C# Practice\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.csproj.CoreCompileInputs.cache
+D:\VisualStudios\C# Practice\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.dll
+D:\VisualStudios\C# Practice\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.pdb
+D:\VisualStudios\C# Practice\NumberGuessing\obj\Debug\netcoreapp3.1\NumberGuessing.genruntimeconfig.cache
